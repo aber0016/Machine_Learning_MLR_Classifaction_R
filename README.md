@@ -6,4 +6,4 @@ The training data used for these models are:
 - 
 - 
 
-Perfromance of both models was measured using 
+Perfromance of both models was measured using RMSE (Root Mean Square Error).
